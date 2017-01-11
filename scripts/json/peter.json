@@ -1,0 +1,6 @@
+{
+  "name": "Peter",
+  "startingBid": 30,
+  "maxBid": 1000,
+  "increment": 3
+}

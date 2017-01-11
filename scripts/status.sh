@@ -1,0 +1,1 @@
+curl -X GET http://localhost:8080/auction/playstation_4_pro
